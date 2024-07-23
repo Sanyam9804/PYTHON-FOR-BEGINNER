@@ -1,0 +1,33 @@
+s1 = int(input("enter your number"))
+s2 = int(input("enter your number"))
+s3 = int(input("enter your number"))
+s4 = int(input("enter your number"))
+s5 = int(input("enter your number"))
+s6 = int(input("enter your number"))
+s7 = int(input("enter your number"))
+s8 = int(input("enter your number"))
+
+s = {s1,s2,s3,s4,s5,s6,s7,s8}
+print(s)
+print(type(s))
+
+
+# s = set()
+# n = input("Enter number: ")
+# s.add(int(n))  
+# n = input("Enter number: ")
+# s.add(int(n))  
+# n = input("Enter number: ")
+# s.add(int(n))  
+# n = input("Enter number: ")
+# s.add(int(n))  
+# n = input("Enter number: ")
+# s.add(int(n))  
+# n = input("Enter number: ")
+# s.add(int(n))  
+# n = input("Enter number: ")
+# s.add(int(n))  
+# n = input("Enter number: ")
+# s.add(int(n))  
+
+# print(s)
