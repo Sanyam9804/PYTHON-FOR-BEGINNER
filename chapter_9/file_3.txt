@@ -1,0 +1,5 @@
+HELLO SIR
+MY NAME IS JON
+IM FROM INDIA 
+
+WELCOME         due to append function in 04 py
